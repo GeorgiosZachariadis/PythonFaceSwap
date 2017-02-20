@@ -7,6 +7,7 @@ This repository containts a python script that faceswap between 2 pictures
 
 My name is Georgios Zachariadis, I am a programmer and I like to troll my friends on group chats, so I made a "meme generator". A face swap algorithm that recognizes faces and puts the face from the one to the other.
 
+This is just for fun and it was made in a day. I hold no rights to it.
 
 
 
